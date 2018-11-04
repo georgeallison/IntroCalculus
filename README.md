@@ -1,19 +1,11 @@
-# IntroCalculus
-Notes on first year calculus - CU Boulder
+# Calculus 1 : Math 1300 Notes
+#### George Allison University of Colorado Boulder 2016
 
-
-
-Calculus 1 : Math 1300 Notes
-
-George Allison University of Colorado Boulder 2016
-
-Problems with tangent and velocity
-
-Recall:  Point-Slope form:   **y - y**** 1 **** = m(x - x ****1**** )**
-
-Slope-Intercept form: **y = mx + b**
-
-Velocity = change in position / change in time = Δs/Δt
+#### Problems with tangent and velocity  
+Recall:  
+   Point-Slope form:   **y - y**** 1 **** = m(x - x ****1**** )**
+   Slope-Intercept form: **y = mx + b**
+   Velocity = change in position / change in time = Δs/Δt
 
 A secant line  is a line that goes through two points on a function
 
@@ -23,13 +15,13 @@ The closer the two points of intersection are, the more accurate their slope is 
 
 If the two points get infinitely close together, effectively making the secant line into a tangent line, then the slope of the tangent line will be equal to the slope of the point on the curve that it is touching. The slope of the tangent line, which equals the slope of that point on f(x) is called the derivative.
 
-Understanding limits and limit laws
+#### Understanding limits and limit laws
 
-A limit is a value that approaches another value. Notation: limx→af(x)=b
+A limit is a value that approaches another value. Notation: *limx→af(x)=b*
 
 [https://www.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc/v/introduction-to-limits-hd](https://www.khanacademy.org/math/precalculus/limit-topic-precalc/limits-precalc/v/introduction-to-limits-hd)
 
-Some basic rules for calculating limits without a graph:
+**Some basic rules for calculating limits without a graph:**
 
 1.
 1.limx→ax=a
@@ -42,7 +34,7 @@ Some basic rules for calculating limits without a graph:
  = limx→af(x)∗limx→ag(x)
  = limx→af(x)∗limx→ag(x)
 
-The Squeeze Theorem - If x≤g(x)≤h(x)f when x is near a, and L = limx→af(x)=limx→ah(x) then limx→ag(x)=L  In other words, if two functions  squeeze together with a function in the middle, then the limits of all the functions at that point are the same.
+**The Squeeze Theorem** - If x≤g(x)≤h(x)f when x is near a, and L = limx→af(x)=limx→ah(x) then limx→ag(x)=L  In other words, if two functions  squeeze together with a function in the middle, then the limits of all the functions at that point are the same.
 
 In the above graph, limx→1f(x)=limx→1h(x), so by the squeeze theorem, limx→1g(x) is equivalent too.
 
